@@ -1,0 +1,24 @@
+{
+  "name": "ktarco",
+  "title": "ktarco",
+  "description": "ktarco",
+  "type": "react-component",
+  "category": [],
+  "group": 0,
+  "homepage": "",
+  "repository": "",
+  "author": "ktbd",
+  "screenshot": "",
+  "package": {
+    "name": "ktarco",
+    "version": "latest",
+    "type": "npm",
+    "registry": "",
+    "peerDependencies": [
+      "react",
+      "react-dom",
+      "@arco-design/web-react"
+    ]
+  },
+  "metaUpdateTime": 1637017475908
+}
