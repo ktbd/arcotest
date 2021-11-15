@@ -1,7 +1,7 @@
 {
-  "name": "aaaa",
-  "version": "1.0.0",
-  "description": "aaaa",
+  "name": "ktarco",
+  "version": "0.1.0",
+  "description": "ktarco",
   "main": "./lib/index.js",
   "module": "./es/index.js",
   "types": "./es/index.d.ts",
@@ -101,7 +101,7 @@
   "license": "MIT",
   "arcoMeta": {
     "type": "react-component",
-    "title": "aaaa",
+    "title": "ktarco",
     "category": []
   },
   "files": [
