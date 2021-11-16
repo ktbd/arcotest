@@ -2,23 +2,22 @@
   "name": "ktarco",
   "title": "ktarco",
   "description": "ktarco",
-  "type": "react-component",
+  "type": "react",
   "category": [],
   "group": 0,
   "homepage": "",
-  "repository": "",
+  "repository": "npm.e.uid.lt",
   "author": "ktbd",
   "screenshot": "",
   "package": {
     "name": "ktarco",
     "version": "latest",
-    "type": "npm",
-    "registry": "",
+    "type": "hello",
+    "registry": "http://npm.e.uid.lt",
     "peerDependencies": [
+      "@arco-design/web-react",
       "react",
-      "react-dom",
-      "@arco-design/web-react"
+      "react-dom"
     ]
-  },
-  "metaUpdateTime": 1637017475908
+  }
 }
