@@ -1,6 +1,6 @@
 {
   "name": "ktarco",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "description": "ktarco",
   "main": "./lib/index.js",
   "module": "./es/index.js",
